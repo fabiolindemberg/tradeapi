@@ -7,6 +7,9 @@ npx prisma init
 npx prisma migrate dev
 npx prisma studio
 
+//  Banco de dados - PostgreSQL
+  https://neon.tech/
+
 // adicionar esta configuração no user.json
 {
   "emmet.syntaxProfiles": {
