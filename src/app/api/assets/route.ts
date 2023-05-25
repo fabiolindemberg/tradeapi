@@ -11,6 +11,7 @@ export async function GET(request: NextRequest) {
   //     ticker: ['BBAS3', 'PETR4']
   // };
   const queryParams = request.nextUrl.searchParams
+
   console.log('query', queryParams)
 
   if (!process.env.SHEETDB_URL) {

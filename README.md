@@ -16,3 +16,7 @@ npx prisma studio
     "javascript": "javascriptreact"
   },
 }
+
+// Router handlers
+  https://nextjs.org/docs/app/building-your-application/routing/router-handlers
+  https://www.youtube.com/watch?v=Vvu509Q3jY0
