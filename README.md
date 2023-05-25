@@ -20,3 +20,5 @@ npx prisma studio
 // Router handlers
   https://nextjs.org/docs/app/building-your-application/routing/router-handlers
   https://www.youtube.com/watch?v=Vvu509Q3jY0
+
+// https://www.prisma.io/docs/guides/other/troubleshooting-orm/help-articles/vercel-caching-issue
